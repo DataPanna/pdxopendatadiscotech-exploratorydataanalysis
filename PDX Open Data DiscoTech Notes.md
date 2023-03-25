@@ -95,6 +95,47 @@
 - [Slack Channels](https://join.slack.com/t/opendatapdxdiscotech/shared_invite/zt-1s2rdwm2p-9dGY3azKsw41Gb5LseFuWw)
 - [Google Doc](https://docs.google.com/document/d/1LyXi6YmjAPPv-mnJj7um0yH1VTT6Om8HrausTmLoJk0/edit#heading=h.sj85w84avd9k)
 
+## Main Event on Saturday, 3/25/2023
+### Intro: Hector Dominguez
+- Open Data is a goal to highlight transparency efforts in Government
+- Connecting Government Data to Community Members can help Government Staff tackle the problems most important to citizens
+- Problem Statement for Today: Identify places City's Open Data Sets are missing data necessary for beneficial analysis
+- Primary Flow of Event:
+    - Day is split into 2 pieces
+        1. Try to find an interesting question; put together a list of subjects
+        2. Teams Demo and report back
+    - Break Out Meetings
+        - If a separate break out room is needed, Hector can create them for us
+
+### How to Get Started with a Data project
+- Code for PDX - Hugh
+- Start with a Question (or don't)
+- Perform Exploratory Data Analysis
+- Pick your Data Set
+- Explore the Metadata
+- Pick your toolset
+    - Demo: app.datawrapper.de
+- Final results
+    - Push any contributions to https://github.com/community-data-discotech-portland-2023
+
+### Project Work: Exploring Portland Neighborhood Data
+#### Notes from Project Page: https://www.democracylab.org/events/101/projects/1173
+Problem
+Navigating socio-economic data can be complex and requires certain expertise to build narratives of social dynamics through data. This team will be exploring how to facilitate accessing Portland neighborhood data.
+Data sources:
+Portland engagement project
+https://www.portland.gov/civic/portland-engagement-project
+https://www.portland.gov/civic/myneighborhood/neighborhood-profile-maps
+Neighborhood data: https://pdx.maps.arcgis.com/home/item.html?id=47c47b40279148d89d306124dd8246ad#overview
+Neighborhood data metadata https://www.portlandmaps.com/metadata/index.cfm?&action=DisplayLayer&LayerID=61035
+
+Resources and notes document: https://docs.google.com/document/d/1_7UDHu-Zq7xFTMbAITBSX1dbIbJPXiWNUYdH25LsBFA/edit?usp=sharing
+
+Hackathon Goal
+Participants are encourage to develop tools that facilitate exploration, visualizations, or processing of the Portland neighborhood data (1.0).
+
+All types of tools are welcome, from spreadsheets to standalone apps.
+
 ## Resources
 - [City of Portland Open Data Sets](https://www.smartcitypdx.com/news/2023/3/23/exploring-the-city-of-portland-open-datasets-for-disco-tech-2023)
 - [Smart City PDX Priorities Framework](https://www.smartcitypdx.com/priorities-framework)
